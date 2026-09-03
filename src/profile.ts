@@ -36,7 +36,7 @@ export const profile = {
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I accepted a job offer for a full-time position after graduation.",
+    "I accepted a job offer for a full-time position after graduation at a company I interned at this past summer.",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
