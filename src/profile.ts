@@ -29,9 +29,9 @@ export const profile = {
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "I like to watch movies.",
+    "I like to watch movies and read in my free time.",
     "I can juggle a soccer ball.",
-    "I have a cat named Holly."
+    "I have a tuxedo cat named Holly."
   ],
 
   /** One decision you're proud of, in a sentence. */
