@@ -43,7 +43,7 @@ export const profile = {
    * (e.g. put photo.jpg in the public/ folder and change this to "/photo.jpg").
    * It must be a real image file: the grader fetches it and checks.
    */
-  photoPath: "/Users/juliaboyce/projects/my-site/public/photo.PNG",
+  photoPath: "/photo.PNG",
 
   /**
    * Who can see your roster card:
@@ -53,13 +53,13 @@ export const profile = {
   rosterVisibility: "class" as "class" | "professor-only",
 
   /** A one-line tagline for your home page. Make it yours. */
-  tagline: "Building a portfolio of decision services, one lane at a time.",
+  tagline: "Building my portfolio of analytics, one project at a time.",
 
   /**
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a business student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service.",
+  bio: "I'm a marketing and business analytics student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service. I'm interested in using both my creative and analyticals skills to make effective decisions and help businesses grow. ",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
