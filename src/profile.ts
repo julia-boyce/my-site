@@ -59,7 +59,7 @@ export const profile = {
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a marketing and business analytics student at the University of Delaware learning to make good decisions at any scale. This site is my portfolio of projects for BANA442. Overall, I'm interested in using both my creative and analytical skills to make effective decisions and help businesses grow. ",
+  bio: "I'm a marketing and business analytics student at the University of Delaware learning to make good decisions at any scale. This site is my portfolio of projects for BANA442. Overall, I'm interested in learning how to use both my creative and analytical skills to make effective decisions and help businesses grow. ",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
