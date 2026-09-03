@@ -53,7 +53,7 @@ export const profile = {
   rosterVisibility: "class",
 
   /** A one-line tagline for your home page. Make it yours. */
-  tagline: "Building my portfolio of analytics, one project at a time.",
+  tagline: "Building my experience with analytics, one project at a time.",
 
   /**
    * A short bio for your home page: two or three sentences, written like
