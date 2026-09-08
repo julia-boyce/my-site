@@ -92,7 +92,7 @@ export const PALETTES: Record<string, Palette> = {
     accent: "#e8b04b",
     accentInk: "#1a1508",
   },
-
+/**Palette with blue-gray themes */
   bluespalette: {
     paper: "#F8FAFC",
     surface: "#E2E8F0",
