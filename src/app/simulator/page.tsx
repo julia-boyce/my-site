@@ -105,7 +105,7 @@ export default async function SimulatorPage() {
             simulation: which part is random, which part is your choice. */}
           <p className="mt-4 max-w-prose text-muted">
           In this diagram, the percentage you choose to stake is the variable you control, 
-          while the yearly coin flip determines the amount of money you gain or lose.
+          while the yearly coin flip determines the amount of money you will gain or lose.
             </p>
       </section>
     </main>
